@@ -1,0 +1,90 @@
+body {
+    padding-right: 10px;
+    background: rgb(98, 161, 233);
+}
+
+#header1 {
+    width: 100%;
+    height: 50px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(52, 53, 54);
+    font-style: bold;
+    text-align: left;
+    padding-right: 10px;
+}
+
+#header2 {
+    width: 100%;
+    height: 50px;
+    padding-top: 10px;
+    color: white;
+    background-color: rgb(36, 65, 78);
+    text-align: left;
+    padding-right: 10px;
+}
+
+#header1 h1 {
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+
+#header2 h2 {
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+nav button {
+    background-color: rgb(162, 183, 192);
+    color: black;
+    float: right;
+    width: 200px;
+    height: 35px;
+    font-weight: bold;
+}
+
+nav button:hover {
+    color: aliceblue;
+    background-color: black;
+}
+
+footer {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 20px;
+    align-content: center;
+    height: 100px;
+    background-color: rgb(52, 53, 54);
+    color: white;
+    border-radius: 10px;
+}
+
+footer button {
+    color: black;
+    border: 1px solid black;
+    width: 200px;
+    height: 30px;
+    text-shadow: 0.2em;
+}
+
+footer button:hover {
+    color: white;
+}
+
+#facebook:hover {
+    background-color: rgb(16, 56, 116);
+}
+
+#insta:hover {
+    background-color: rgb(160, 19, 66);
+}
+
+#twitter:hover {
+    background-color: rgb(67, 135, 236);
+}
+
+img {
+    width: 900px;
+    height: 600px;
+    border: 2px solid black;
+    box-shadow: 10px;
+}
